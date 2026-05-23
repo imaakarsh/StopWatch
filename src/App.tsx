@@ -206,7 +206,7 @@ function App() {
       <div className="orb orb-right" aria-hidden="true" />
 
       <section className="hero-card">
-        <div className="eyebrow">Web Dev Cohort 2026</div>
+        <div className="eyebrow">Stopwatch & Timer</div>
         <h1>Stopwatch and Timer</h1>
         <p>
           Track elapsed time with a precise stopwatch and count down a custom
